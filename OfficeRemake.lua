@@ -268,7 +268,6 @@ do -- Files
         Fonts = {
             Loaded = {},
 
-            ["Monocraft"] = {Link = "https://templehook.com/Assets/Script/Fonts/Monocraft.ttf", Size = 10 },
             ["ProggyTiny"] = {Link = "https://github.com/bluescan/proggyfonts/raw/refs/heads/master/ProggyOriginal/ProggyTiny.ttf", Size = 9 },
             ["Tahoma"] = {Link = "https://github.com/LuckyHub1/LuckyHub/raw/main/zekton_rg.ttf", Size = 12},
             ["Sword"] =  {Link = "https://github.com/LuckyHub1/LuckyHub/raw/refs/heads/main/Templehook%20(1).ttf", Size = 12},
